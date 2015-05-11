@@ -34,7 +34,7 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 * [Bubble Sort Example] - Bubble Sort algorithm with a timer and without a timer. 
 * [Web Scraping Example] - LXML and Beautiful Soup Web Scraping example
 
-[Codemasters]:http://www.codemaster.nyc/
+[Codemaster]:http://www.codemaster.nyc/
 
 [Hello World Comparison]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example1
 [Input Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example2
