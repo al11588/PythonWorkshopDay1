@@ -1,3 +1,4 @@
+![alt tag](http://www.codemaster.nyc/uploads/4/8/4/6/48467487/1425663631.png)
 [Codemasters]
 # Python: What You Need to Know to Get Started
 
