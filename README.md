@@ -23,7 +23,7 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 * [Input Example] - Comparing Python 2 and Python 3 input statements.
 * [Add Number Comparison] - Comparing Java to Python with Add Statements.
 * [Math Example] - Square root math example.
-* [Sorting Example] - Sorting comparison to Ruby example.
+* [Sorting Examplee] - Sorting comparison to Ruby example.
 * [Boolean Example] - Boolean True/False example.
 * [If And Else Example] - If and Else example.
 * [Sorting Examplee] - Sorting example comparing Ruby.
