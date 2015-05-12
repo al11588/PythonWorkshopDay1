@@ -26,7 +26,7 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 * [Sorting Example] - Sorting comparison to Ruby example.
 * [Boolean Example] - Boolean True/False example.
 * [If And Else Example] - If and Else example.
-* [Sorting Example] - Sorting example comparing Ruby.
+* [Sorting Examplee] - Sorting example comparing Ruby.
 * [Factorial Example] - Factorial Example.
 * [Define function example] - Defining a function example. 
 * [Classes Example] - What are classes in Python?
@@ -40,10 +40,10 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 [Input Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example2
 [Add Number Comparison]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example3
 [Math Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example4
-[Sorting Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example5
+[Sorting Examplee]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example5
 [Boolean Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example6
 [If And Else Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example7
-[Sorting Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example8
+[Sorting Examplee]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example8
 [Factorial Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example9
 [Define function example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example10
 [Classes Example]:https://github.com/al11588/PythonWorkshopDay1/tree/master/example11
