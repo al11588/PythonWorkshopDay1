@@ -20,18 +20,31 @@ CodeMaster is excited to introduce a series of FREE Python workshops lead by Pyt
 
 # Python: Examples
 * [Hello World Comparison] - Comparing Java, and Ruby's Hello World.
+
 * [Input Example] - Comparing Python 2 and Python 3 input statements.
+
 * [Add Number Comparison] - Comparing Java to Python with Add Statements.
+
 * [Math Example] - Square root math example.
+
 * [Sorting Example] - Sorting comparison to Java example.
+
 * [Boolean Example] - Boolean True/False example.
+
 * [If And Else Example] - If and Else example.
+
 * [Sorting Examplee] - Sorting example comparing Ruby.
+
 * [Factorial Example] - Factorial Example.
-* [Define function example] - Defining a function example. 
+
+* [Define function example] - Defining a function example.
+
 * [Classes Example] - What are classes in Python?
+
 * [Quicksort Example] - Quick Sort algorithms with a timer and without a timer Python comparison to Java.
+
 * [Bubble Sort Example] - Bubble Sort algorithm with a timer and without a timer. 
+
 * [Web Scraping Example] - LXML and Beautiful Soup Web Scraping example.
 
 [Codemaster]:http://www.codemaster.nyc/
